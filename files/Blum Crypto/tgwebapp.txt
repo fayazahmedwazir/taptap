@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7811288047%2C%22first_name%22%3A%22Ajmal%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=5602602686177377639&chat_type=sender&auth_date=1728221925&hash=4ef77850f48b8b544051232ac268b5bc5dcc8787136a4093c3d6881cc8a955b0
